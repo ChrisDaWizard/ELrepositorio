@@ -1,2 +1,1 @@
-# ELrepositorio
-repositorio de prueba de Prep Course Henry
+Este es un projecto de prueba de clonacion de repositorio de github a PC
